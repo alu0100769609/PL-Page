@@ -90,7 +90,7 @@ header h2 {
 }
 
 .inner {
-  width: 620px;
+  width: 650px;
   margin: 0 auto;
 }
 
@@ -163,6 +163,24 @@ a.button span {
 }
 #view-on-github {
   margin-right: 0;
+}
+#nodejs span {
+	background: transparent url(../images/nodejs.png) 12px 50% no-repeat;
+}
+#conversor-temperatura span {
+	background: transparent url(../images/temperatura.png) 12px 50% no-repeat;
+}
+#comma-separated-value span {
+	background: transparent url(../images/csv.png) 12px 50% no-repeat;
+}
+#analizador-lexico span {
+	background: transparent url(../images/analizador.png) 12px 50% no-repeat;
+}
+#return-main span {
+	background: transparent url(../images/home.png) 12px 50% no-repeat;
+}
+#interrogacion span {
+	background: transparent url(../images/interrogacion.png) 12px 50% no-repeat;
 }
 
 code, pre {
